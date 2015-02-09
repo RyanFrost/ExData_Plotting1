@@ -1,0 +1,5 @@
+setwd("~/Documents/CourseraRProgramming/ExData_Plotting1/")
+list.files()
+source("funcs.R")
+source("plot3.R")
+source("plot3.R")
